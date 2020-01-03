@@ -1,4 +1,4 @@
-## Setup
+## Setup 
 
 Pre-workshop setup
 Please bring a laptop with Gephi installed before the workshop.
