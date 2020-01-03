@@ -1,5 +1,8 @@
-##Introduction to Gephi and Palladio
+## Outline
 
-Learn the basics of using Gephi and Palladio for network visualization. 
+Examples of Network Visualization (for some inspiration)
 
-In this beginner workshop participants will learn key concepts, create their own network graph, and publish to Gephi and Palladio. No previous experience with network visualization is required.
+Gain an overview and appreciation of terms and methods to study networks using digital tools
+Understand basic process and questions that might be asked when looking at data
+Explore two tools - Gephi and Palladio - that can aid in your own analyses
+
