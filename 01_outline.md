@@ -22,11 +22,15 @@ This is your session. If you have a question or feel we are going too fast, plea
 
 | Time | Content 
 | --- | --- 
-| 0:00 | [Concepts and tools](01_what_is_git.md)
-| 0:10 | [Git basics](02_getting_started.md)
-| 0:30 | [Syncing with GitHub](03_sync.md)
-| 1:00 | [Collaborating on GitHub](04_collab.md)
-| 1:20 | Wrap-up
+| 0:00 | [What is a Network?](03_network.md)
+| 0:10 | [Case Studies](04_casestudies.md)
+| 0:20 | [Alternatives](05_alternatives.md)
+| 0:30 | [Collaborating on GitHub](06_definitions.md)
+| 0:40 | [Case Studies](04_casestudies.md)
+| 0:50 | [Alternatives](05_alternatives.md)
+| 1:00 | [Definition](05_definition.md)
+| 1:00 | [Preparing Your Data](07_preparation.md)
+| 1:10 | [Hands-on_Activity](Gephi_hands_on_activity.md)
 
 _Actual schedule may vary depending on group needs_
 
