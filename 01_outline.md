@@ -1,15 +1,4 @@
 
-
-
----
-layout: default
-nav_order: 3
-title: Outline
-has_children: true
-has_toc: false
-
----
-
 ## Outline
 
 ### Goal of this workshop
