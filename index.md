@@ -1,1 +1,5 @@
-  Several interesting phenomena can be modelled and analysed using graph theory. Graph theory, which Wikipedia tells me first had a paper published about it in 1736 (!) can at its most basic perhaps be thought of as mathematical techniques to analyse problems where one can represent the protagonists as a set of objects (nodes) and lines connecting them (edges).
+Network visualization, graph visualization or link analysis is the process of visually presenting networks of connected entities as links and nodes.
+
+Nodes represent data points and links represent the connections between them.
+
+To look beyond your flat data model and understand connections in your data, you need powerful network visualization tools.
