@@ -28,9 +28,12 @@ This is your session. If you have a question or feel we are going too fast, plea
 | 0:30 | [Collaborating on GitHub](06_definitions.md)
 | 0:40 | [Case Studies](04_casestudies.md)
 | 0:50 | [Alternatives](05_alternatives.md)
-| 1:00 | [Definition](05_definition.md)
-| 1:00 | [Preparing Your Data](07_preparation.md)
-| 1:10 | [Hands-on_Activity](Gephi_hands_on_activity.md)
+| 0:55 | [Definitions](05_definition.md)
+| 1:05 | [Preparing Your Data](07_preparation.md)
+| 1:15 | [Hands-on_Activity](08_gephi_hands_on_activity.md)
+| 1:25 | [Palladio](09_palladio.md)
+| 1:00 | [Hands-on Activity](10_palladio_hands_on_activity.md)
+
 
 _Actual schedule may vary depending on group needs_
 
