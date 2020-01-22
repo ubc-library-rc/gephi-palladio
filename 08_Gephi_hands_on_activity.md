@@ -254,7 +254,7 @@ result label resizing en
 Figure 29. Result of the label resizing
  
 
-exporting a network as a picture
+**exporting a network as a picture**
 Open the configuration panel for screenshots
 Figure 30. Open the configuration panel for screenshots
  
