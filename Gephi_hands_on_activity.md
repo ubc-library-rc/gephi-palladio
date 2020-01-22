@@ -28,12 +28,12 @@ find miserables.gexf on your computer and open it
 
 A report window will open, giving you basic info on the network you opened:
 
-This tells us a few things:
+_This tells us a few things:_
 
--the network comprises 74 characters, and they're all connected by 248 links.
+- the network comprises 74 characters, and they're all connected by 248 links.
 
--Links are undirected, meaning that if A is connected to B, then it is the same as B connected to A.
+- Links are undirected, meaning that if A is connected to B, then it is the same as B connected to A.
 
--The report also tells us the graph is not dynamic: it means there is no evolution or chronology, it won’t "move in time".
+- The report also tells us the graph is not dynamic: it means there is no evolution or chronology, it won’t "move in time".
 
-- Click on OK to see the graph in Gephi.
+- Click on **OK** to see the graph in Gephi.
