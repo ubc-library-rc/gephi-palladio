@@ -37,3 +37,54 @@ _This tells us a few things:_
 - The report also tells us the graph is not dynamic: it means there is no evolution or chronology, it won’t "move in time".
 
 - Click on **OK** to see the graph in Gephi.
+
+**Initial view**
+
+project initial view
+
+Figure 4. initial view when opening a graph
+ 
+This is how the network appears in Gephi. Not very useful! Let’s examine what we have here.
+
+**basic view of Gephi’s interface**
+the 3 main screens in Gephi
+Figure 5. the 3 main screens in Gephi
+ 
+
+Gephi has 3 main screens:
+
+Overview: where we can explore the graph visually
+
+Data Laboratory: provides an "Excel" table view of the data in network
+
+Preview: where we polish the visualization before exporting it as a pictue or pdf
+
+What we see here is the Overview.
+
+Filters and statistics panels in Gephi
+Figure 6. Filters and statistics panels in Gephi
+ 
+
+In the Overview, the graph is shown at the center. Around it, several panels help us fine tune the visualization.
+
+"Filters", where we can hide different parts of the network under a variety of conditions
+
+"Statistics", where we can compute metrics on the network
+
+Appearance and layout panels in Gephi
+Figure 7. Appearance and layout panels in Gephi
+ 
+
+"Appearance", where we can change colors and sizes in interesting ways
+
+"Layouts", where we can apply automated procedures to change the position of the network
+
+3 groups of icons
+Figure 8. 3 groups of icons
+ 
+
+A series of icons to add / colorize nodes and links manually, by clicking on them
+
+Options and sliders to change the size of all nodes, links, or labels
+
+More options become visible if we click on this little arrow head pointing up
