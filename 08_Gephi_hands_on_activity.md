@@ -47,12 +47,8 @@ _This tells us a few things:_
 ## **Initial view**
 
 ![sa.png]({{site.baseurl}}/sa.png)
-
-project initial view
-
-Figure 4. initial view when opening a graph
  
-This is how the network appears in Gephi. Not very useful! Let’s examine what we have here.
+This is how the network appears in Gephi.  It doesn't look very useful (yet).    
 
 ## **basic view of Gephi’s interface**
 
