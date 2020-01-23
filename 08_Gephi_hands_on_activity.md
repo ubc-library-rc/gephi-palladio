@@ -56,7 +56,7 @@ This is how the network appears in Gephi. Not very useful! Let’s examine what 
 
 **basic view of Gephi’s interface**
 
-![]({{site.baseurl}}//ba.png)![ba.png]({{site.baseurl}}/ba.png)
+![]({{site.baseurl}}//ba.png)
 
 
 Gephi has 3 main screens:
@@ -69,7 +69,7 @@ Preview: where we polish the visualization before exporting it as a pictue or pd
 
 What we see here is the Overview.
 
-![]({{site.baseurl}}//ta.png)![ta.png]({{site.baseurl}}/ta.png)
+![]({{site.baseurl}}//ta.png)
 
  
 In the Overview, the graph is shown at the center. Around it, several panels help us fine tune the visualization.
