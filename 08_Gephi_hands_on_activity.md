@@ -106,19 +106,18 @@ More options become visible if we click on this little arrow head pointing up
 ![l.png]({{site.baseurl}}/l.png)
 
 
-**visualize the properties of the nodes**
+## **visualize the properties of the nodes**
 A network consists in entities and their relations. This is what we just visualized. Yet, the properties of these entities remain invisible.
 
 For instance: the characters in the novel "Les Misérables" are male or female. Are males more likely to be connected to males, or females? Just looking at the network in Gephi, we can’t tell.
 
 Now, we will see how to make this property ("Gender") visible.
 
-Switching the view to the data laboratory
-Figure 13. Switching the view to the data laboratory
- 
+![q.png]({{site.baseurl}}/q.png)
 
-We see there is a Gender attribute for each character.
-Figure 14. We see there is a Gender attribute for each character.
+![w.png]({{site.baseurl}}/w.png)
+
+![e.png]({{site.baseurl}}/e.png)
  
 
 We will color the nodes based on their gender. To do that, we select Gender in the Appearance panel:
