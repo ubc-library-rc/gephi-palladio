@@ -2,7 +2,7 @@
 
 [GML file](https://gephi.org/datasets/lesmiserables.gml.zip). _Les Miserables: coappearance weighted network of characters in the novel Les Miserables_. D. E. Knuth, The Stanford GraphBase: A Platform for Combinatorial Computing, Addison-Wesley, Reading, MA (1993).
 
-**download a network file**
+## **download a network file**
 
 download this zip file and unzip it on your computer.
 
@@ -10,7 +10,7 @@ download this zip file and unzip it on your computer.
 
 -Save it in a folder you will remember (or create a folder specially for this small project).
 
-**description of the file / the network**
+## **description of the file / the network**
 
 This file contains a network representing "who appears next to whom" in the 19th century novel Les Misérables by Victor Hugo[1].
 
@@ -18,7 +18,7 @@ A link between characters A and B means they appeared on the same page or paragr
 
 The file name ends with ".gexf", which just means this is a text file where the network information is stored (name of the characters, their relations, etc.), following some conventions.
 
-**open the network in Gephi**
+## **open the network in Gephi**
 
 open Gephi. On the Welcome screen that appears, click on Open Graph File
 
@@ -27,7 +27,7 @@ find miserables.gexf on your computer and open it
 ![1.png]({{site.baseurl}}/1.png)
 
 
-**read the report after opening a file**
+## **read the report after opening a file**
 
 A report window will open, giving you basic info on the network you opened:
 
@@ -44,7 +44,7 @@ _This tells us a few things:_
 
 - Click on **OK** to see the graph in Gephi.
 
-**Initial view**
+## **Initial view**
 
 ![sa.png]({{site.baseurl}}/sa.png)
 
@@ -54,7 +54,7 @@ Figure 4. initial view when opening a graph
  
 This is how the network appears in Gephi. Not very useful! Let’s examine what we have here.
 
-**basic view of Gephi’s interface**
+## **basic view of Gephi’s interface**
 
 ![]({{site.baseurl}}//ba.png)
 
@@ -78,14 +78,14 @@ In the Overview, the graph is shown at the center. Around it, several panels hel
 
 -"Statistics", where we can compute metrics on the network
 
-![]({{site.baseurl}}//67.png)![67.png]({{site.baseurl}}/67.png)
+![]({{site.baseurl}}//67.png)
 
  
 - "Appearance", where we can change colors and sizes in interesting ways
 
 - "Layouts", where we can apply automated procedures to change the position of the network
 
-![]({{site.baseurl}}//8910.png)![8910.png]({{site.baseurl}}/8910.png)
+![]({{site.baseurl}}//8910.png)
 
 
 A series of icons to add / colorize nodes and links manually, by clicking on them
@@ -94,11 +94,11 @@ Options and sliders to change the size of all nodes, links, or labels
 
 More options become visible if we click on this little arrow head pointing up
 
-**showing labels of the nodes**
+## **showing labels of the nodes**
 
 ![]({{site.baseurl}}//h.PNG)
 
-**layout ("spatialize") the network**
+## **layout ("spatialize") the network**
 ![]({{site.baseurl}}//j.png)
 
 ![k.png]({{site.baseurl}}/k.png)
@@ -117,22 +117,16 @@ Now, we will see how to make this property ("Gender") visible.
 
 ![w.png]({{site.baseurl}}/w.png)
 
-![e.png]({{site.baseurl}}/e.png)
- 
-
 We will color the nodes based on their gender. To do that, we select Gender in the Appearance panel:
 
- 
- 
+![e.png]({{site.baseurl}}/e.png)
 
 This is what it should look like!
 
 ![r.png]({{site.baseurl}}/r.png)
 
- 
- 
 
-**prettify the network for enhanced readability**
+## **prettify the network for enhanced readability**
 There are a number of issues with the result we get:
 
 the network is too big or too small, it is hard to read
@@ -171,7 +165,8 @@ Adjusting edge thickness
 Figure 19. Adjusting edge thickness
  
 
-**computing the centrality of the nodes**
+## **computing the centrality of the nodes**
+
 1. Definitions of centrality
 "Centrality" is a very good metrics to first get an idea of a network. What does centrality mean? Intuitively, we understand that a "central" node will probably sit in the middle of the network. But how to measure that "scientifically", so that we have an objective confirmation of our visual impression?
 
