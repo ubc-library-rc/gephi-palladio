@@ -61,11 +61,11 @@ This is how the network appears in Gephi. Not very useful! Let’s examine what 
 
 Gephi has 3 main screens:
 
-Overview: where we can explore the graph visually
+1.Overview: where we can explore the graph visually
 
-Data Laboratory: provides an "Excel" table view of the data in network
+2.Data Laboratory: provides an "Excel" table view of the data in network
 
-Preview: where we polish the visualization before exporting it as a pictue or pdf
+3.Preview: where we polish the visualization before exporting it as a pictue or pdf
 
 What we see here is the Overview.
 
