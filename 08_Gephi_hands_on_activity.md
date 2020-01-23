@@ -46,6 +46,8 @@ _This tells us a few things:_
 
 **Initial view**
 
+![sa.png]({{site.baseurl}}/sa.png)
+
 project initial view
 
 Figure 4. initial view when opening a graph
