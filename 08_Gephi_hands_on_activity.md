@@ -88,12 +88,13 @@ In the Overview, the graph is shown at the center. Around it, several panels hel
 ![]({{site.baseurl}}//8910.png)
 
 
-8. A series of icons to add / colorize nodes and links manually, by clicking on them
+**8. A series of icons** - to add / colorize nodes and links manually, by clicking on them
 
-9. Options and sliders to change the size of all nodes, links, or labels
+**9. Options and sliders** - to change the size of all nodes, links, or labels
 
-10. More options become visible if we click on this little arrow head pointing up
+**10. More options** - become visible if we click on this little arrow head pointing up
 
+<hr>
 ## **showing labels of the nodes**
 
 ![]({{site.baseurl}}//h.PNG)
