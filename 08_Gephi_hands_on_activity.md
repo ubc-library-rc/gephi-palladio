@@ -55,9 +55,9 @@ Figure 4. initial view when opening a graph
 This is how the network appears in Gephi. Not very useful! Let’s examine what we have here.
 
 **basic view of Gephi’s interface**
-the 3 main screens in Gephi
-Figure 5. the 3 main screens in Gephi
- 
+
+![]({{site.baseurl}}//ba.png)![ba.png]({{site.baseurl}}/ba.png)
+
 
 Gephi has 3 main screens:
 
