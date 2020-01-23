@@ -89,12 +89,12 @@ Options and sliders to change the size of all nodes, links, or labels
 
 More options become visible if we click on this little arrow head pointing up
 
-showing labels of the nodes
+**showing labels of the nodes**
 showing node labels
 Figure 9. showing node labels
  
 
-layout ("spatialize") the network
+**layout ("spatialize") the network**
 selecting the force atlas 2 layout
 Figure 10. selecting the force atlas 2 layout
  
@@ -107,7 +107,7 @@ result of Force Atlas 2 layout
 Figure 12. result of Force Atlas 2 layout
  
 
-visualize the properties of the nodes
+**visualize the properties of the nodes**
 A network consists in entities and their relations. This is what we just visualized. Yet, the properties of these entities remain invisible.
 
 For instance: the characters in the novel "Les Misérables" are male or female. Are males more likely to be connected to males, or females? Just looking at the network in Gephi, we can’t tell.
@@ -134,7 +134,7 @@ appearance miserables result
 Figure 16. After coloring characters according to their gender
  
 
-prettify the network for enhanced readability
+**prettify the network for enhanced readability**
 There are a number of issues with the result we get:
 
 the network is too big or too small, it is hard to read
@@ -173,7 +173,7 @@ Adjusting edge thickness
 Figure 19. Adjusting edge thickness
  
 
-computing the centrality of the nodes
+**computing the centrality of the nodes**
 1. Definitions of centrality
 "Centrality" is a very good metrics to first get an idea of a network. What does centrality mean? Intuitively, we understand that a "central" node will probably sit in the middle of the network. But how to measure that "scientifically", so that we have an objective confirmation of our visual impression?
 
@@ -214,7 +214,7 @@ Figure 22. Report after the computation of betweenness centrality
 
 Now we can visualize this information.
 
-visualize attributes created by Gephi
+**visualize attributes created by Gephi**
 Gephi has computed for us the betweenness centrality of all nodes. This remains invisible on the network, however.
 
 It would be interesting to, say, resize the nodes according to their centrality: the more central a node, the bigger. This would allow for a very quick visual appreciation of which nodes are the most central.
