@@ -122,14 +122,14 @@ Now, we will see how to make this property ("Gender") visible.
 
 We will color the nodes based on their gender. To do that, we select Gender in the Appearance panel:
 
-Coloring nodes according to their gender
-Figure 15. Coloring nodes according to their gender
+ 
  
 
-The result:
+This is what it should look like!
 
-appearance miserables result
-Figure 16. After coloring characters according to their gender
+![r.png]({{site.baseurl}}/r.png)
+
+ 
  
 
 **prettify the network for enhanced readability**
@@ -252,7 +252,7 @@ result label resizing en
 Figure 29. Result of the label resizing
  
 
-**exporting a network as a picture**
+## **exporting a network as a picture**
 Open the configuration panel for screenshots
 Figure 30. Open the configuration panel for screenshots
  
