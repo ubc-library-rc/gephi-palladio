@@ -94,7 +94,7 @@ In the Overview, the graph is shown at the center. Around it, several panels hel
 
 **10. More options** - become visible if we click on this little arrow head pointing up
 
-<hr>
+
 ## **showing labels of the nodes**
 
 ![]({{site.baseurl}}//h.PNG)
