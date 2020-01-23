@@ -31,6 +31,8 @@ find miserables.gexf on your computer and open it
 
 A report window will open, giving you basic info on the network you opened:
 
+![]({{site.baseurl}}//3.png)
+
 _This tells us a few things:_
 
 - the network comprises 74 characters, and they're all connected by 248 links.
