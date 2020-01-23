@@ -99,17 +99,12 @@ More options become visible if we click on this little arrow head pointing up
 ![]({{site.baseurl}}//h.PNG)
 
 **layout ("spatialize") the network**
-selecting the force atlas 2 layout
-Figure 10. selecting the force atlas 2 layout
- 
+![]({{site.baseurl}}//j.png)
 
-changing a few parameters and launching the layout
-Figure 11. changing a few parameters and launching the layout
- 
+![k.png]({{site.baseurl}}/k.png)
 
-result of Force Atlas 2 layout
-Figure 12. result of Force Atlas 2 layout
- 
+![l.png]({{site.baseurl}}/l.png)
+
 
 **visualize the properties of the nodes**
 A network consists in entities and their relations. This is what we just visualized. Yet, the properties of these entities remain invisible.
