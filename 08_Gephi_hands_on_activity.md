@@ -85,9 +85,8 @@ In the Overview, the graph is shown at the center. Around it, several panels hel
 
 - "Layouts", where we can apply automated procedures to change the position of the network
 
-3 groups of icons
-Figure 8. 3 groups of icons
- 
+![]({{site.baseurl}}//8910.png)![8910.png]({{site.baseurl}}/8910.png)
+
 
 A series of icons to add / colorize nodes and links manually, by clicking on them
 
