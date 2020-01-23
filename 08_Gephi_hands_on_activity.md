@@ -69,23 +69,21 @@ Preview: where we polish the visualization before exporting it as a pictue or pd
 
 What we see here is the Overview.
 
-Filters and statistics panels in Gephi
-Figure 6. Filters and statistics panels in Gephi
- 
+![]({{site.baseurl}}//ta.png)![ta.png]({{site.baseurl}}/ta.png)
 
+ 
 In the Overview, the graph is shown at the center. Around it, several panels help us fine tune the visualization.
 
-"Filters", where we can hide different parts of the network under a variety of conditions
+-"Filters", where we can hide different parts of the network under a variety of conditions
 
-"Statistics", where we can compute metrics on the network
+-"Statistics", where we can compute metrics on the network
 
-Appearance and layout panels in Gephi
-Figure 7. Appearance and layout panels in Gephi
+![]({{site.baseurl}}//67.png)![67.png]({{site.baseurl}}/67.png)
+
  
+- "Appearance", where we can change colors and sizes in interesting ways
 
-"Appearance", where we can change colors and sizes in interesting ways
-
-"Layouts", where we can apply automated procedures to change the position of the network
+- "Layouts", where we can apply automated procedures to change the position of the network
 
 3 groups of icons
 Figure 8. 3 groups of icons
