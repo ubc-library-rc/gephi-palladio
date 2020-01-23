@@ -61,11 +61,11 @@ This is how the network appears in Gephi. Not very useful! Let’s examine what 
 
 Gephi has 3 main screens:
 
-1.Overview: where we can explore the graph visually
+**1. Overview:**where we can explore the graph visually
 
-2.Data Laboratory: provides an "Excel" table view of the data in network
+**2. Data Laboratory:** provides an "Excel" table view of the data in network
 
-3.Preview: where we polish the visualization before exporting it as a pictue or pdf
+**3. Preview:** where we polish the visualization before exporting it as a pictue or pdf
 
 What we see here is the Overview.
 
@@ -74,25 +74,25 @@ What we see here is the Overview.
  
 In the Overview, the graph is shown at the center. Around it, several panels help us fine tune the visualization.
 
--"Filters", where we can hide different parts of the network under a variety of conditions
+**4. "Filters"**- we can hide different parts of the network under a variety of conditions
 
--"Statistics", where we can compute metrics on the network
+**5. "Statistics"** - we can compute metrics on the network
 
 ![]({{site.baseurl}}//67.png)
 
  
-- "Appearance", where we can change colors and sizes in interesting ways
+**6.  "Appearance"** - we can change colors and sizes in interesting ways
 
-- "Layouts", where we can apply automated procedures to change the position of the network
+**7. "Layouts" -** we can apply automated procedures to change the position of the network
 
 ![]({{site.baseurl}}//8910.png)
 
 
-A series of icons to add / colorize nodes and links manually, by clicking on them
+8. A series of icons to add / colorize nodes and links manually, by clicking on them
 
-Options and sliders to change the size of all nodes, links, or labels
+9. Options and sliders to change the size of all nodes, links, or labels
 
-More options become visible if we click on this little arrow head pointing up
+10. More options become visible if we click on this little arrow head pointing up
 
 ## **showing labels of the nodes**
 
