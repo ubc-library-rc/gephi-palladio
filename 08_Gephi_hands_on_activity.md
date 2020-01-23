@@ -31,7 +31,8 @@ find miserables.gexf on your computer and open it
 
 A report window will open, giving you basic info on the network you opened:
 
-![]({{site.baseurl}}//3.png)
+![2.png]({{site.baseurl}}/2.png)
+
 
 _This tells us a few things:_
 
