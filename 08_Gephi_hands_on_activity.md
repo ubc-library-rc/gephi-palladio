@@ -20,11 +20,12 @@ The file name ends with ".gexf", which just means this is a text file where the 
 
 **open the network in Gephi**
 
-![1.png]({{site.baseurl}}/1.png)
-
 open Gephi. On the Welcome screen that appears, click on Open Graph File
 
 find miserables.gexf on your computer and open it
+
+![1.png]({{site.baseurl}}/1.png)
+
 
 **read the report after opening a file**
 
