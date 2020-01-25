@@ -5,3 +5,6 @@ A Palladio project begins first with the tabular data you have on your computer.
 **## Which data formats work with Palladio?**
 
 Any collection of information that can be represented in a table format (in other words, any data you might enter into a spreadsheet program) will work with Palladio. Make sure that all data is represented by delimited-separated values. Palladio supports the following delimiters: commas, semicolons and tabs.
+
+![correct_inc_.PNG]({{site.baseurl}}/correct_inc_.PNG)
+
