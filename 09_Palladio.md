@@ -11,3 +11,6 @@ Any collection of information that can be represented in a table format (in othe
 ## **Note that empty rows in your data will be ignored by Palladio.**
 
 Palladio does not work with unstructured data, such as one long string of text, but only with data that has been placed into some kind of table. The richest uses of Palladio comes from having several different related tables of information, however many users will start with just one single table.
+
+![wpid1798-media_1415771170331.png]({{site.baseurl}}/wpid1798-media_1415771170331.png)
+
