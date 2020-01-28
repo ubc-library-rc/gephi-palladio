@@ -16,3 +16,8 @@ Palladio does not work with unstructured data, such as one long string of text, 
 
 ![wpid1798-media_1415771170331.png]({{site.baseurl}}/wpid1798-media_1415771170331.png)
 
+Click on the Load Spreadsheet or CSV tab and drag your spreadsheet onto the tab. (If you have an Excel spreadsheet, save it as a .csv file before uploading it.) Then press Load.
+
+![palladio1.png]({{site.baseurl}}/palladio1.png)
+
+
