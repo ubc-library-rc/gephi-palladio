@@ -1,4 +1,4 @@
-**## What is a Palladio project?**
+##What is a Palladio project?**
 
 A Palladio project begins first with the tabular data you have on your computer. Once you’ve uploaded this data into the Palladio interface, you can then refine it, visualize, and save it back to your computer as a Palladio project.
 
@@ -19,5 +19,3 @@ Palladio does not work with unstructured data, such as one long string of text, 
 Click on the Load Spreadsheet or CSV tab and drag your spreadsheet onto the tab. (If you have an Excel spreadsheet, save it as a .csv file before uploading it.) Then press Load.
 
 ![palladio1.png]({{site.baseurl}}/palladio1.png)
-
-
