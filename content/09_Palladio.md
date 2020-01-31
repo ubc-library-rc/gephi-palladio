@@ -19,3 +19,13 @@ Palladio does not work with unstructured data, such as one long string of text, 
 Click on the Load Spreadsheet or CSV tab and drag your spreadsheet onto the tab. (If you have an Excel spreadsheet, save it as a .csv file before uploading it.) Then press Load.
 
 ![palladio1.png]({{site.baseurl}}/palladio1.png)
+
+**## Tips **
+
+- Work slowly. Wait for an option to finish loading before you click it again or click something else.
+
+- Do not refresh the page. You’ll lose your work.
+
+- On a related note: To start over, refresh the page.
+
+- Clicking on the Palladio logo will bring you to the Palladio homepage, but it won’t erase your work.
