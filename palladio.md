@@ -6,12 +6,12 @@ Palladio is relatively new and still under active development which means that y
 
 **You have structured data.**
 
-Here, “structured data” means “data in a spreadsheet”: categorized, sorted, and stored in an Excel document or some other kind of spreadsheet application.
+- Here, “structured data” means “data in a spreadsheet”: categorized, sorted, and stored in an Excel document or some other kind of spreadsheet application.
 
 **You’re interested in time, space, and relationships.**
 
-That’s where Palladio excels: showing you how various entities are connected across time and space.
+- That’s where Palladio excels: showing you how various entities are connected across time and space.
 
 **Your data has many attributes.**
 
-Palladio’s really good at helping you uncover relationships among disparate attributes over time and space for example, it can help you see that a diarist was especially interested in trees as he traveled through North Carolina, and especially interested in bats as he traveled through Arizona. Palladio allows you to drill down through your data using faceted browsing.
+- Palladio’s really good at helping you uncover relationships among disparate attributes over time and space for example, it can help you see that a diarist was especially interested in trees as he traveled through North Carolina, and especially interested in bats as he traveled through Arizona. Palladio allows you to drill down through your data using faceted browsing.
