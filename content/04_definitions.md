@@ -2,7 +2,7 @@
 
 ![terminology-for-networks.png]({{site.baseurl}}/terminology-for-networks.png)
 
-- Graph
+- Graph - A diagram that illustrates interconnections among people, groups and organizations in a social network
 - Node 
 - Edge
 - Degree
