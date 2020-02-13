@@ -6,11 +6,11 @@ Palladio is relatively new and still under active development which means that y
 
 **You have structured data.**
 
-- Here, “structured data” means “data in a spreadsheet”: categorized, sorted, and stored in an Excel document or some other kind of spreadsheet application.
+   - Here, “structured data” means “data in a spreadsheet”: categorized, sorted, and stored in an Excel document or some other kind of spreadsheet application.
 
 **You’re interested in time, space, and relationships.**
 
-- That’s where Palladio excels: showing you how various entities are connected across time and space.
+   - That’s where Palladio excels: showing you how various entities are connected across time and space.
 
 **Your data has many attributes.**
 
