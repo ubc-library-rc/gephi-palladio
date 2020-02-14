@@ -33,5 +33,21 @@ Locate the Cushman-Collection.csv file you downloaded earlier. Click on its icon
 
 To view your data as a network diagram, click on **Graph**. (Palladio is using the term "Graph" the way computer scientists do, to mean exclusively a network graph.)
 
+![2.png]({{site.baseurl}}/content/2.png)
+
+In order to create a network diagram, you need to tell Palladio which two attributes of your data you want to explore. For Source, choose Genre 1; for Target, choose Genre 2. Now you can see which genres tend to co-occur in Cushman's photographs. You can click and drag the nodes (the circles) to explore your diagram.
+
+![3.png]({{site.baseurl}}/content/3.png)
+
+To highlight one kind of node in order to distinguish between the two, click on the Highlight checkbox. To size nodes according to the number of objects they represent, click on the Size nodes checkbox.
+
+![4.png]({{site.baseurl}}/content/4.png)
+
+Palladio doesn't save your data, but you can export your data model — the way you configured your data — and upload it again later. This will save you the trouble of configuring your dataset the next time you want to work with it.
+
+	- To do this, click on **Download**. This will download a file with the extension .json. The next time you         use Palladio, you can upload this file (on the Palladio homepage) in order to open your project where       you left off.
+
+
+
 ![t.png]({{site.baseurl}}/content/t.png)
 
