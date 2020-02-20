@@ -18,7 +18,7 @@ Palladio is relatively new and still under active development which means that y
 
 A Palladio project begins first with the tabular data you have on your computer. Once you’ve uploaded this data into the Palladio interface, you can then refine it, visualize, and save it back to your computer as a Palladio project.
 
-**## Go to palladio.designhumanities.org and click on Start.**
+**## Go to [Palladio](https://hdlab.stanford.edu/palladio/) and click on Start.**
 
 ![wpid1798-media_1415771170331.png]({{site.baseurl}}/wpid1798-media_1415771170331.png)
 
