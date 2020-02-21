@@ -1,7 +1,8 @@
 ---
- layout: default
- title: Let’s try a Dataset in Gephi (Hands-on activity)
- nav_order: 5
+layout: default
+title: Let’s try a Dataset in Gephi (Hands-on activity)
+nav_order: 5
+published: true
 ---
 
 ## Let’s try a Dataset in Gephi (Hands-on activity)
@@ -30,7 +31,7 @@ open Gephi. On the Welcome screen that appears, click on Open Graph File
 
 find miserables.gexf on your computer and open it
 
-![1.png]({{site.baseurl}}/1.png)
+![]({{site.baseurl}}/https://github.com/ubc-library-rc/gephi-palladio/blob/master/content/figures/1.png)
 
 
 ## **read the report after opening a file**
