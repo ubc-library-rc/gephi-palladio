@@ -19,7 +19,7 @@ download this zip file and unzip it on your computer.
 
 ## **description of the file / the network**
 
-This file contains a network representing "who appears next to whom" in the 19th century novel Les Misérables by Victor Hugo[1].
+This file contains a network representing "who appears next to whom" in the 19th century novel Les Misérables by Victor Hugo.
 
 A link between characters A and B means they appeared on the same page or paragraph in the novel.
 
