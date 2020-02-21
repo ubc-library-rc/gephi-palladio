@@ -28,9 +28,7 @@ Download the **[Cushman-Collection.csv](https://github.com/ubc-library-rc/gephi-
 ![palladio1.png]({{site.baseurl}}/palladio1.png)
 
 
- Network diagrams show the relationships among entities. Often, those entities are people or objects, 		 but we can use subject headings as our entities, too.
-
-To view your data as a network diagram, click on **Graph**. (Palladio is using the term "Graph" the way computer scientists do, to mean exclusively a network graph.)
+Network diagrams show the relationships among entities. To view your data as a network diagram, click on **Graph**. (Palladio is using the term "Graph" the way computer scientists do, to mean exclusively a network graph.)
 
 ![2.png]({{site.baseurl}}/content/2.png)
 
