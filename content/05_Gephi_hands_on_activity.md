@@ -31,7 +31,7 @@ open Gephi. On the Welcome screen that appears, click on Open Graph File
 
 find miserables.gexf on your computer and open it
 
-![1.png]({{site.baseurl}}/https://github.com/ubc-library-rc/gephi-palladio/blob/master/content/figures/1.png)
+![1.png]({{site.baseurl}}/content/figures/1.png)
 
 
 ## **read the report after opening a file**
