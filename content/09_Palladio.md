@@ -26,7 +26,7 @@ Click on the Load Spreadsheet or CSV tab and drag your spreadsheet onto the tab.
 
 ![palladio1.png]({{site.baseurl}}/palladio1.png)
 
-Locate the **Cushman-Collection.csv** file you downloaded earlier. Click on its icon and drag the file directly onto the blank box that appears under the words Load CSV or spreadsheet. Then press Load.
+Download the **[Cushman-Collection.csv](https://github.com/ubc-library-rc/gephi-palladio/blob/master/Cushman-Collection.csv)** file to your computer. Click on its icon and drag the file directly onto the blank box that appears under the words Load CSV or spreadsheet. Then press Load.
 
 
    - Network diagrams show the relationships among entities. Often, those entities are people or objects, 		 but we can use subject headings as our entities, too.
