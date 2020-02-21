@@ -1,6 +1,6 @@
 ---
  layout: default
- title: Setup
+ title: What is a Social Network
  nav_order: 2
 ---
 

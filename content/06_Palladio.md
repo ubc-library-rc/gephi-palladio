@@ -1,6 +1,6 @@
 ---
  layout: default
- title: Setup
+ title: Palladio
  nav_order: 6
 ---
 

@@ -1,6 +1,6 @@
 ---
  layout: default
- title: Setup
+ title: Network Visualization analysis software - A List of Alternative Possibilities
  nav_order: 3
 ---
 

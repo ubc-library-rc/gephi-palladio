@@ -1,3 +1,8 @@
+---
+ layout: default
+ title: Introduction
+ nav_order: 0
+---
 Network visualization, graph visualization or link analysis is the process of visually presenting networks of connected entities as links and nodes.
 ![]({{site.baseurl}}//Social_Network_Analysis_Visualization.png)
 

@@ -1,6 +1,6 @@
 ---
  layout: default
- title: Setup
+ title: Let’s try a Dataset in Gephi (Hands-on activity)
  nav_order: 5
 ---
 

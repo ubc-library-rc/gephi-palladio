@@ -1,6 +1,6 @@
 ---
  layout: default
- title: Setup
+ title: Basic Definitions of Network Terms
  nav_order: 4
 ---
 
