@@ -1,3 +1,9 @@
+---
+ layout: default
+ title: Setup
+ nav_order: 5
+---
+
 ## Let’s try a Dataset in Gephi (Hands-on activity)
 
 [GML file](https://gephi.org/datasets/lesmiserables.gml.zip). _Les Miserables: coappearance weighted network of characters in the novel Les Miserables_. D. E. Knuth, The Stanford GraphBase: A Platform for Combinatorial Computing, Addison-Wesley, Reading, MA (1993).
@@ -47,7 +53,7 @@ _This tells us a few things:_
 ## **Initial view**
 
 ![sa.png]({{site.baseurl}}/sa.png)
- 
+
 This is how the network appears in Gephi.  It doesn't look very useful (yet).    
 
 ## **basic view of Gephi’s interface**
@@ -67,7 +73,7 @@ What we see here is the Overview.
 
 ![]({{site.baseurl}}//ta.png)
 
- 
+
 In the Overview, the graph is shown at the center. Around it, several panels help us fine tune the visualization.
 
 **4. "Filters"**- we can hide different parts of the network under a variety of conditions
@@ -76,7 +82,7 @@ In the Overview, the graph is shown at the center. Around it, several panels hel
 
 ![]({{site.baseurl}}//67.png)
 
- 
+
 **6.  "Appearance"** - we can change colors and sizes in interesting ways
 
 **7. "Layouts" -** we can apply automated procedures to change the position of the network

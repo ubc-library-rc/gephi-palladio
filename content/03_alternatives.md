@@ -1,4 +1,10 @@
-## Network Visualization analysis software - A List of Alternative Possibilities 
+---
+ layout: default
+ title: Setup
+ nav_order: 3
+---
+
+## Network Visualization analysis software - A List of Alternative Possibilities
 
 - Gephi
 - Palladio
