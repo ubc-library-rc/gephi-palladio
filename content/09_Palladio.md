@@ -22,14 +22,13 @@ A Palladio project begins first with the tabular data you have on your computer.
 
 ![wpid1798-media_1415771170331.png]({{site.baseurl}}/wpid1798-media_1415771170331.png)
 
-Click on the Load Spreadsheet or CSV tab and drag your spreadsheet onto the tab. (If you have an Excel spreadsheet, save it as a .csv file before uploading it.) Then press Load.
-
-![palladio1.png]({{site.baseurl}}/palladio1.png)
-
 Download the **[Cushman-Collection.csv](https://github.com/ubc-library-rc/gephi-palladio/blob/master/Cushman-Collection.csv)** file to your computer. Click on its icon and drag the file directly onto the blank box that appears under the words Load CSV or spreadsheet. Then press Load.
 
 
-   - Network diagrams show the relationships among entities. Often, those entities are people or objects, 		 but we can use subject headings as our entities, too.
+![palladio1.png]({{site.baseurl}}/palladio1.png)
+
+
+ Network diagrams show the relationships among entities. Often, those entities are people or objects, 		 but we can use subject headings as our entities, too.
 
 To view your data as a network diagram, click on **Graph**. (Palladio is using the term "Graph" the way computer scientists do, to mean exclusively a network graph.)
 
