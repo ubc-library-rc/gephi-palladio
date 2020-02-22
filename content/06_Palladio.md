@@ -1,7 +1,8 @@
 ---
- layout: default
- title: Palladio
- nav_order: 6
+layout: default
+title: Palladio
+nav_order: 6
+published: true
 ---
 
 # Palladio
@@ -28,7 +29,7 @@ A Palladio project begins first with the tabular data you have on your computer.
 
 ### Go to [Palladio](https://hdlab.stanford.edu/palladio/) and click on Start.
 
-![wpid1798-media_1415771170331.png]({{site.baseurl}}/wpid1798-media_1415771170331.png)
+![wpid1798-media_1415771170331.png]({{site.baseurl}}/{{site.baseurl}}/content/wpid1798-media_1415771170331.png)
 
 Download the **[Cushman-Collection.csv](https://github.com/ubc-library-rc/gephi-palladio/blob/master/Cushman-Collection.csv)** file to your computer. Click on its icon and drag the file directly onto the blank box that appears under the words Load CSV or spreadsheet. Then press Load.
 
