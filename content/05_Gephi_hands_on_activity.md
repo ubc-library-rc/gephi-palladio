@@ -38,7 +38,7 @@ find miserables.gexf on your computer and open it
 
 A report window will open, giving you basic info on the network you opened:
 
-![]({{site.baseurl}}/https://github.com/ubc-library-rc/gephi-palladio/blob/master/content/2.png)
+![2.png]({{site.baseurl}}/content/figures/2.png)
 
 
 _This tells us a few things:_
