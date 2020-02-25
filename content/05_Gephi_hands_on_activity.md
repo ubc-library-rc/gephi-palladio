@@ -13,11 +13,11 @@ published: true
 
 ## **download a network file**
 
-- Download this file 
+- Download the .gefx file
 
--You should find the file miserables.gexf in it.
+- You should find the file miserables.gexf in it.
 
--Save it in a folder you will remember (or create a folder specially for this small project).
+- Save it in a folder you will remember (or create a folder specially for this small project).
 
 ## **description of the file / the network**
 
