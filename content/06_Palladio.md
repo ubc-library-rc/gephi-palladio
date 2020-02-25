@@ -11,21 +11,6 @@ published: true
 
 Palladio is relatively new and still under active development which means that you will almost certainly encounter bugs! Still, it’s a very useful tool for getting a handle on a complicated dataset.
 
-## When Might Palladio be the Right Tool for You?
-
-**You have structured data.**
-
-   - Here, “structured data” means “data in a spreadsheet”: categorized, sorted, and stored in an Excel document or some other kind of spreadsheet application.
-
-**You’re interested in time, space, and relationships.**
-
-   - That’s where Palladio excels: showing you how various entities are connected across time and space.
-
-**Your data has many attributes.**
-
-- Palladio’s really good at helping you uncover relationships among disparate attributes over time and space for example, it can help you see that a diarist was especially interested in trees as he traveled through North Carolina, and especially interested in bats as he traveled through Arizona. Palladio allows you to drill down through your data using faceted browsing.
-
-A Palladio project begins first with the tabular data you have on your computer. Once you’ve uploaded this data into the Palladio interface, you can then refine it, visualize, and save it back to your computer as a Palladio project.
 
 ### Go to [Palladio](https://hdlab.stanford.edu/palladio/) and click on Start.
 
