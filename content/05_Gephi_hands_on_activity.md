@@ -47,7 +47,7 @@ _This tells us a few things:_
 
 - Links are **undirected**, meaning that if A is connected to B, then it is the same as B connected to A.
 
-- The report also tells us the graph is not dynamic: it means there is no evolution or chronology, it won’t "move in time".
+- The report also tells us the graph is **not dynamic**: it means there is no evolution or chronology, it won’t "move in time".
 
 - Click on **OK** to see the graph in Gephi.
 
