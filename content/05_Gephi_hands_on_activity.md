@@ -19,7 +19,7 @@ published: true
 
 - Save it in a folder you will remember (or create a folder specially for this small project).
 
-## **description of the file / the network**
+## **Description of the file / the network**
 
 This file contains a network representing "who appears next to whom" in the 19th century novel _Les Misérables_ by Victor Hugo.
 
@@ -27,7 +27,7 @@ A link between characters **A** and **B** means they appeared on the same page o
 
 The file name ends with ".gexf", which just means this is a text file where the network information is stored (name of the characters, their relations, etc.), following some conventions.
 
-## **open the network in Gephi**
+## **Open the network in Gephi**
 
 open Gephi. On the Welcome screen that appears, click on Open Graph File
 
