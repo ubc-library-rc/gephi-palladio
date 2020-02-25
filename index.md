@@ -1,13 +1,13 @@
 ---
- layout: default
- title: Introduction
- nav_order: 0
+layout: default
+title: Introduction
+nav_order: 0
+published: true
 ---
-Network visualization, graph visualization or link analysis is the process of visually presenting networks of connected entities as links and nodes.
+Social network analysis (SNA) is a tool available for modeling, visualizing, and analyzing the interactions between individuals within groups and organizations.
+
 ![]({{site.baseurl}}//Social_Network_Analysis_Visualization.png)
 
-Nodes represent data points and links represent the connections between them.
+Network visualization is the process of visually presenting networks of connected entities as edges(links) and nodes.
 
-To look beyond your flat data model and understand connections in your data, you need powerful network visualization tools.
-
-Network visualisation has become an important tool in the armoury of the data wrangler. An increasing volume of research and journalism is using network analysis and visualisation to gain insight into the real world social, political and cultural networks that influence our lives.
+An increasing volume of research and journalism is using network analysis and visualisation to gain insight into the real world health, social, political and cultural networks that influence our lives.  So why don't we get started?
