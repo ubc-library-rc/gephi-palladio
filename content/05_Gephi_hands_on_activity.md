@@ -7,7 +7,9 @@ published: true
 
 ## Let’s try a Dataset in Gephi (Hands-on activity)
 
-[Download this dataset](https://github.com/ubc-library-rc/gephi-palladio/blob/master/miserables_result%202.gexf). _Les Miserables: coappearance weighted network of characters in the novel Les Miserables_. D. E. Knuth, The Stanford GraphBase: A Platform for Combinatorial Computing, Addison-Wesley, Reading, MA (1993).
+[Download this dataset]
+
+-(https://github.com/ubc-library-rc/gephi-palladio/blob/master/miserables_result%202.gexf). _Les Miserables: coappearance weighted network of characters in the novel Les Miserables_. D. E. Knuth, The Stanford GraphBase: A Platform for Combinatorial Computing, Addison-Wesley, Reading, MA (1993).
 
 ## **download a network file**
 
