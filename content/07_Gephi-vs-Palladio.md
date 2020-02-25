@@ -1,7 +1,8 @@
 ---
- layout: default
- title: Setup
- nav_order: 7
+layout: default
+title: Gephi Versus Palladio
+nav_order: 7
+published: true
 ---
 
 ## When Might Palladio be the Right Tool for You?
