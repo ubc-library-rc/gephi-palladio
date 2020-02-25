@@ -5,19 +5,19 @@ nav_order: 5
 published: true
 ---
 
-## Let’s try a Dataset in Gephi (Hands-on activity)
+## **Let’s try a Dataset in Gephi (Hands-on activity)**
 
 [Download this dataset](https://github.com/ubc-library-rc/gephi-palladio/blob/master/miserables_result%202.gexf). 
 
  - _Les Miserables: coappearance weighted network of characters in the novel Les Miserables_. D. E. Knuth, The Stanford GraphBase: A Platform for Combinatorial Computing, Addison-Wesley, Reading, MA (1993).
 
-## **Getting Started: Download a network file**
+# Getting Started: Download a network file
 
 - Download the .gefx file
 
 - Save this file in a folder you will remember (or create a folder specially for this small project).
 
-## **Description of the file / the network**
+# Description of the file / the network
 
 This file contains a network representing "who appears next to whom" in the 19th century novel _Les Misérables_ by Victor Hugo.
 
@@ -25,7 +25,7 @@ This file contains a network representing "who appears next to whom" in the 19th
 
 - Note: a file name ends with ".gexf" means this is a text file where the network information is stored (name of the characters, their relations, etc.), following some conventions.
 
-## **Open the network in Gephi**
+# Open the network in Gephi
 
 open Gephi. On the Welcome screen that appears, click on Open Graph File
 
@@ -34,7 +34,7 @@ find miserables.gexf on your computer and open it
 ![1.png]({{site.baseurl}}/content/figures/1.png)
 
 
-## **read the report after opening a file**
+# Read the report after opening a file
 
 A report window will open, giving you basic info on the network you opened:
 
@@ -51,13 +51,13 @@ _This tells us a few things:_
 
 - Click on **OK** to see the graph in Gephi.
 
-## **Initial view**
+# Initial view
 
 ![sa.png]({{site.baseurl}}/sa.png)
 
 This is how the network appears in Gephi.  It doesn't look very useful (yet)...    
 
-## **basic view of Gephi’s interface**
+# A basic view of Gephi’s interface
 
 ![]({{site.baseurl}}//ba.png)
 
