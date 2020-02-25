@@ -14,3 +14,10 @@
 - Palladio’s really good at helping you uncover relationships among disparate attributes over time and space for example, it can help you see that a diarist was especially interested in trees as he traveled through North Carolina, and especially interested in bats as he traveled through Arizona. Palladio allows you to drill down through your data using faceted browsing.
 
 A Palladio project begins first with the tabular data you have on your computer. Once you’ve uploaded this data into the Palladio interface, you can then refine it, visualize, and save it back to your computer as a Palladio project.
+
+
+## When Might Gephi be the Right Tool for You? 
+
+- Gephi uses local based files (no cloud hosting, works offline, i.e. does not rely on the web program)
+
+- Has a large support social network analysis (SNA) community to draw expertise 
