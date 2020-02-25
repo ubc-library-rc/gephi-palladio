@@ -57,7 +57,7 @@ _This tells us a few things:_
 
 This is how the network appears in Gephi.  It doesn't look very useful (yet)...    
 
-## A basic view of Gephi’s interface
+## Basic view of Gephi’s interface
 
 ![]({{site.baseurl}}//ba.png)
 
