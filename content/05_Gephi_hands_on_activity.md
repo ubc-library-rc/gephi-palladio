@@ -11,13 +11,13 @@ published: true
 
  - _Les Miserables: coappearance weighted network of characters in the novel Les Miserables_. D. E. Knuth, The Stanford GraphBase: A Platform for Combinatorial Computing, Addison-Wesley, Reading, MA (1993).
 
-# Getting Started: Download a network file
+### Getting Started: Download a network file
 
 - Download the .gefx file
 
 - Save this file in a folder you will remember (or create a folder specially for this small project).
 
-# Description of the file / the network
+### Description of the file / the network
 
 This file contains a network representing "who appears next to whom" in the 19th century novel _Les Misérables_ by Victor Hugo.
 
@@ -25,7 +25,7 @@ This file contains a network representing "who appears next to whom" in the 19th
 
 - Note: a file name ends with ".gexf" means this is a text file where the network information is stored (name of the characters, their relations, etc.), following some conventions.
 
-# Open the network in Gephi
+### Open the network in Gephi
 
 open Gephi. On the Welcome screen that appears, click on Open Graph File
 
@@ -34,7 +34,7 @@ find miserables.gexf on your computer and open it
 ![1.png]({{site.baseurl}}/content/figures/1.png)
 
 
-# Read the report after opening a file
+### Read the report after opening a file
 
 A report window will open, giving you basic info on the network you opened:
 
@@ -51,13 +51,13 @@ _This tells us a few things:_
 
 - Click on **OK** to see the graph in Gephi.
 
-# Initial view
+### Initial view
 
 ![sa.png]({{site.baseurl}}/sa.png)
 
 This is how the network appears in Gephi.  It doesn't look very useful (yet)...    
 
-# A basic view of Gephi’s interface
+### A basic view of Gephi’s interface
 
 ![]({{site.baseurl}}//ba.png)
 
@@ -98,11 +98,11 @@ In the Overview, the graph is shown at the center. Around it, several panels hel
 **10. More options** - become visible if we click on this little arrow head pointing up
 
 
-## **showing labels of the nodes**
+### Showing labels of the nodes**
 
 ![]({{site.baseurl}}//h.PNG)
 
-## **layout ("spatialize") the network**
+### Layout ("spatialize") the network**
 ![]({{site.baseurl}}//j.png)
 
 ![k.png]({{site.baseurl}}/k.png)
@@ -110,7 +110,7 @@ In the Overview, the graph is shown at the center. Around it, several panels hel
 ![l.png]({{site.baseurl}}/l.png)
 
 
-## **visualize the properties of the nodes**
+### Visualize the properties of the nodes**
 A network consists in entities and their relations. This is what we just visualized. Yet, the properties of these entities remain invisible.
 
 For instance: the characters in the novel "Les Misérables" are male or female. Are males more likely to be connected to males, or females? Just looking at the network in Gephi, we can’t tell.
