@@ -11,7 +11,7 @@ published: true
 
  - _Les Miserables: coappearance weighted network of characters in the novel Les Miserables_. D. E. Knuth, The Stanford GraphBase: A Platform for Combinatorial Computing, Addison-Wesley, Reading, MA (1993).
 
-## **download a network file**
+## **Getting Started: Download a network file**
 
 - Download the .gefx file
 
