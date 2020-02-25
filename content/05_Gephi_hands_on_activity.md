@@ -15,9 +15,7 @@ published: true
 
 - Download the .gefx file
 
-- You should find the file miserables.gexf in it.
-
-- Save it in a folder you will remember (or create a folder specially for this small project).
+- Save this file in a folder you will remember (or create a folder specially for this small project).
 
 ## **Description of the file / the network**
 
