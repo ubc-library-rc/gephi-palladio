@@ -1,3 +1,8 @@
+---
+ layout: default
+ title: Setup
+ nav_order: 7
+---
 
 ## When Might Palladio be the Right Tool for You?
 
