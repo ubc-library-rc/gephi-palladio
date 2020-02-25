@@ -43,7 +43,7 @@ A report window will open, giving you basic info on the network you opened:
 
 _This tells us a few things:_
 
-- the network comprises 74 characters, and they're all connected by 248 links.
+- the network comprises **74** characters, and they're all connected by **248** links.
 
 - Links are undirected, meaning that if A is connected to B, then it is the same as B connected to A.
 
