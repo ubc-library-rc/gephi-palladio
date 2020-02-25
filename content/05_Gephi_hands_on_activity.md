@@ -11,7 +11,7 @@ published: true
 
 ## **download a network file**
 
-download this zip file and unzip it on your computer.
+- Download this file 
 
 -You should find the file miserables.gexf in it.
 
@@ -19,9 +19,9 @@ download this zip file and unzip it on your computer.
 
 ## **description of the file / the network**
 
-This file contains a network representing "who appears next to whom" in the 19th century novel Les Misérables by Victor Hugo.
+This file contains a network representing "who appears next to whom" in the 19th century novel _Les Misérables_ by Victor Hugo.
 
-A link between characters A and B means they appeared on the same page or paragraph in the novel.
+A link between characters **A** and **B** means they appeared on the same page or paragraph in the novel.
 
 The file name ends with ".gexf", which just means this is a text file where the network information is stored (name of the characters, their relations, etc.), following some conventions.
 
