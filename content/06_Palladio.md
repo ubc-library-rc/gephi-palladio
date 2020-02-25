@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Palladio
+title: Let’s try a Dataset in Palladio (Hands-on activity)
 nav_order: 6
 published: true
 ---
