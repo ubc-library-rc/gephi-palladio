@@ -1,6 +1,6 @@
 ---
  layout: default
- title: Network Visualization analysis software - A List of Alternative Possibilities
+ title: Software for network analysis and visualization - A List of Alternative Possibilities
  nav_order: 3
 ---
 
