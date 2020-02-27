@@ -4,9 +4,10 @@
  nav_order: 1
 ---
 
-## Setup   
+## Pre-workshop Setup   
 
-Pre-workshop setup
-Please bring a laptop with Gephi installed before the workshop.
+Please bring a fully charged laptop with Gephi installed before the workshop.
 
 [https://gephi.org/users/install/](https://gephi.org/users/install/)
+
+If you have any concerns about meeting this requirement please get in touch with <a href="mailto:eka.grguric@ubc.ca">eka.grguric@ubc.ca</a> or <a href="mailto:allan.cho@ubc.ca">allan.cho@ubc.ca</a>.
