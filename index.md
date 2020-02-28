@@ -12,8 +12,6 @@ Social network analysis (SNA) is an approach for modeling, visualizing, and anal
 
 Network visualization is the process of visually presenting networks of connected entities as edges(links) and nodes.
 
-- An increasing volume of research and journalism is using network analysis and visualisation to gain insight into the real world health, social, political and cultural networks that influence our lives.  So let's get started!
-
 ## Applications of Network Analysis and visualization
 
 Example projects:
