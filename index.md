@@ -16,8 +16,8 @@ Network visualization is the process of visually presenting networks of connecte
 
 Example projects:
 * **[The Star Wars Social Network](http://evelinag.com/blog/2015/12-15-star-wars-social-network/)** - A look at the whole 6-movie cycle from a quantitative point of view and extract the Star Wars social networks, both within each film and across the whole Star Wars universe
-*
-* 
+
+* **[Wikipedia graph mining](http://blog.miz.space/research/2017/08/14/wikipedia-collective-memory-dynamic-graph-analysis-graphx-spark-scala-time-series-network/)
 
 ## Goal of this workshop
 
