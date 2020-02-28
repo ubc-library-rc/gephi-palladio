@@ -7,7 +7,9 @@ published: true
 
 ## **Let’s try a Dataset in Gephi (Hands-on activity)**
 
-[Download this dataset](https://github.com/ubc-library-rc/gephi-palladio/blob/master/miserables_result%202.gexf). 
+For this activity we will be following Miriam Posner's Gephi tutorial.
+
+We will be using a data set that comes pre-loaded in most Gephi installations. If you do not see this file, please [download it here](https://github.com/ubc-library-rc/gephi-palladio/blob/master/miserables_result%202.gexf).
 
  - _Les Miserables: coappearance weighted network of characters in the novel Les Miserables_. D. E. Knuth, The Stanford GraphBase: A Platform for Combinatorial Computing, Addison-Wesley, Reading, MA (1993).
 
@@ -21,18 +23,17 @@ published: true
 
 This file contains a network representing "who appears next to whom" in the 19th century novel _Les Misérables_ by Victor Hugo.
 
- - A link between characters **A** and **B** means they appeared on the same page or paragraph in the novel.
+- A link between characters **A** and **B** means they appeared on the same page or paragraph in the novel.
 
 - Note: a file name ends with ".gexf" means this is a text file where the network information is stored (name of the characters, their relations, etc.), following some conventions.
 
 ## Open the network in Gephi
 
-open Gephi. On the Welcome screen that appears, click on Open Graph File
+- Open Gephi. On the Welcome screen that appears, click on Open Graph File
 
-find miserables.gexf on your computer and open it
+- Find miserables.gexf on your computer and open it
 
 ![1.png]({{site.baseurl}}/content/figures/1.png)
-
 
 ## Read the report after opening a file
 
@@ -56,6 +57,9 @@ _This tells us a few things:_
 ![sa.png]({{site.baseurl}}/sa.png)
 
 This is how the network appears in Gephi.  It doesn't look very useful (yet)...    
+
+Mac users may not see a visualization yet. To remedy this go to "Window" in Gephi's main menu bar at the top of the screen and select "Graph from the Window menu.
+{: .note}
 
 ## Basic view of Gephi’s interface
 
