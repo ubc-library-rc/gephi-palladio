@@ -10,7 +10,7 @@ published: true
 
 For this activity we will be following Miriam Posner's Gephi tutorial.
 
-We will be using a data set that comes pre-loaded in most Gephi installations. If you do not see this file, please [download it here](https://github.com/ubc-library-rc/gephi-palladio/blob/master/miserables_result%202.gexf).
+We will be using a data set that comes pre-loaded in most Gephi installations. If you do not see this file, please <a href="/gephi-palladio/les-mis.gexf" download>download it here</a>.
 
  - _Les Miserables: coappearance weighted network of characters in the novel Les Miserables_. D. E. Knuth, The Stanford GraphBase: A Platform for Combinatorial Computing, Addison-Wesley, Reading, MA (1993).
 
