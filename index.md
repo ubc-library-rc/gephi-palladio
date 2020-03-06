@@ -8,7 +8,7 @@ parent: Outline
 
 Social network analysis (SNA) is an approach for modeling, visualizing, and analyzing the interactions between individuals within groups and organizations.
 
-![Social network visualization](figures/Social_Network_Analysis_Visualization.png)
+![Social network visualization](Social_Network_Analysis_Visualization.png)
 
 Network visualization is the process of visually presenting networks of connected entities as edges(links) and nodes.
 
