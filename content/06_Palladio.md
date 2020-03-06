@@ -17,7 +17,7 @@ Palladio is relatively new and still under active development which means that y
 
 ![Palladio step 1](palladio-start.png)
 
-Download the <a href="/gephi-palladio/blob/master/Cushman-Collection.csv" download>Cushman-Collection.csv</a> file to your computer. Click on its icon and drag the file directly onto the blank box that appears under the words Load CSV or spreadsheet. Then press Load.
+Download the <a href="/gephi-palladio/Cushman-Collection.csv" download>Cushman-Collection.csv</a> file to your computer. Click on its icon and drag the file directly onto the blank box that appears under the words Load CSV or spreadsheet. Then press Load.
 
 
 ![Palladio step 2](palladio-1.png)
@@ -45,4 +45,4 @@ Palladio doesn't save your data, but you can export your data model — the way 
 
 Try working with a version of the Les Mis dataset that we looked at in Gephi.
 
-<a href="/gephi-palladio/blob/master/les-mis-for-palladio.csv" download>Download the les mis dataset for Palladio here.</a
+<a href="/gephi-palladio/les-mis-for-palladio.csv" download>Download the les mis dataset for Palladio here.</a>
