@@ -123,14 +123,14 @@ For instance: the characters in the novel "Les Misérables" are male or female. 
 
 Now, we will see how to make this property ("Gender") visible.
 
-![q.png]({{site.baseurl}}/q.png)
+![gephi step 12](gephi-q.png)
 
-![w.png]({{site.baseurl}}/w.png)
+![gephi step 13](gephi-w.png)
 
 We will color the nodes based on their gender. To do that, we select Gender in the Appearance panel:
 
-![e.png]({{site.baseurl}}/e.png)
+![gephi step 14](gephi-e.png)
 
 This is what it should look like!
 
-![r.png]({{site.baseurl}}/r.png)
+![gephi step 15](gephi-r.png)
