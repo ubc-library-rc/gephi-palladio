@@ -34,13 +34,13 @@ This file contains a network representing "who appears next to whom" in the 19th
 
 - Find miserables.gexf on your computer and open it
 
-![1.png]({{site.baseurl}}/content/figures/1.png)
+![gephi step 1](gephi-1.png)
 
 ## Read the report after opening a file
 
 A report window will open, giving you basic info on the network you opened:
 
-![2.png]({{site.baseurl}}/content/figures/2.png)
+![gephi step 2](gephi-2.png)
 
 
 _This tells us a few things:_
@@ -55,7 +55,7 @@ _This tells us a few things:_
 
 ## Initial view
 
-![sa.png]({{site.baseurl}}/sa.png)
+![gephi step 3](gephi-sa.png)
 
 This is how the network appears in Gephi.  It doesn't look very useful (yet)...    
 
@@ -64,7 +64,7 @@ Mac users may not see a visualization yet. To remedy this go to "Window" in Geph
 
 ## Basic view of Gephi’s interface
 
-![]({{site.baseurl}}//ba.png)
+![gephi step 4](gephi-ba.png)
 
 
 Gephi has 3 main screens:
@@ -77,7 +77,7 @@ Gephi has 3 main screens:
 
 What we see here is the Overview.
 
-![]({{site.baseurl}}//ta.png)
+![gephi step 5](gephi-ta.png)
 
 
 In the Overview, the graph is shown at the center. Around it, several panels help us fine tune the visualization.
@@ -86,14 +86,14 @@ In the Overview, the graph is shown at the center. Around it, several panels hel
 
 **5. "Statistics"** - we can compute metrics on the network
 
-![]({{site.baseurl}}//67.png)
+![gephi step 6](gephi-67.png)
 
 
 **6.  "Appearance"** - we can change colors and sizes in interesting ways
 
 **7. "Layouts" -** we can apply automated procedures to change the position of the network
 
-![]({{site.baseurl}}//8910.png)
+![gephi step 7](gephi-8910.png)
 
 
 **8. A series of icons** - to add / colorize nodes and links manually, by clicking on them
@@ -105,14 +105,14 @@ In the Overview, the graph is shown at the center. Around it, several panels hel
 
 ## Showing labels of the nodes
 
-![]({{site.baseurl}}//h.PNG)
+![gephi step 8](gephi-h.PNG)
 
 ## Layout ("spatialize") the network
-![]({{site.baseurl}}//j.png)
+![gephi step 9](gephi-j.png)
 
-![k.png]({{site.baseurl}}/k.png)
+![gephi step 10](gephi-k.png)
 
-![l.png]({{site.baseurl}}/l.png)
+![gephi step 11](gephi-l.png)
 
 
 ## Visualize the properties of the nodes
