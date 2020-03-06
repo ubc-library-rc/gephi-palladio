@@ -133,4 +133,4 @@ We will color the nodes based on their gender. To do that, we select Gender in t
 
 This is what it should look like!
 
-![gephi step 15](gephi-r.png)
+![gephi step 15](gephi-output.png)
