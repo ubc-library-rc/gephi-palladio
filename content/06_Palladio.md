@@ -45,4 +45,4 @@ Palladio doesn't save your data, but you can export your data model — the way 
 
 Try working with a version of the Les Mis dataset that we looked at in Gephi.
 
-<a href="https://github.com/ubc-library-rc/gephi-palladio/blob/master/les-mis-for-palladio.csv" download>Download the les mis dataset for Palladio here.</a>
+<a href="/gephi-palladio/blob/master/les-mis-for-palladio.csv" download>Download the les mis dataset for Palladio here.</a
