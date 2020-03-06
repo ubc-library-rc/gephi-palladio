@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Introduction
-nav_order: 0
-published: true
+nav_order: 1
+parent: Outline
 ---
 # Introduction
 
