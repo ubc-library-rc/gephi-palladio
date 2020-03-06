@@ -2,6 +2,7 @@
 layout: default
 title: Let’s try a Dataset in Palladio (Hands-on activity)
 nav_order: 6
+parent: Outline
 published: true
 ---
 

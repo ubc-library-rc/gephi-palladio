@@ -2,6 +2,7 @@
 layout: default
 title: Let’s try a Dataset in Gephi (Hands-on activity)
 nav_order: 5
+parent: Outline
 published: true
 ---
 

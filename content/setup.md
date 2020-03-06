@@ -2,6 +2,7 @@
  layout: default
  title: Setup
  nav_order: 1
+ has_toc: false
 ---
 
 ## Pre-workshop Setup   

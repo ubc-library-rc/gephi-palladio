@@ -17,17 +17,4 @@ Network visualization is the process of visually presenting networks of connecte
 Example projects:
 * **[The Star Wars Social Network](http://evelinag.com/blog/2015/12-15-star-wars-social-network/)** - A look at the whole 6-movie cycle from a quantitative point of view and extract the Star Wars social networks, both within each film and across the whole Star Wars universe
 
-* **[Wikipedia graph mining](http://blog.miz.space/research/2017/08/14/wikipedia-collective-memory-dynamic-graph-analysis-graphx-spark-scala-time-series-network/)
-
-## Goal of this workshop
-
-This workshop is intended to orient complete beginners to network visualization and two open source tools for creating representations of networks: Palladio and Gephi.
-
-## Schedule
-
-| 0:00 | Setup and orientation |
-| 0:10  | What is a Social Network |     
-| 0:20  | Software for network analysis and visualization |  
-| 0:30 | Basic definitions of network terms |
-| 1:00 | Activities: Gephi |     
-| 1:20 | Next steps and discussion |
+* [Wikipedia graph mining](http://blog.miz.space/research/2017/08/14/wikipedia-collective-memory-dynamic-graph-analysis-graphx-spark-scala-time-series-network/)

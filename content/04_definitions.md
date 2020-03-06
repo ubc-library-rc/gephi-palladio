@@ -2,6 +2,7 @@
  layout: default
  title: Basic Definitions of Network Terms
  nav_order: 4
+ parent: Outline
 ---
 
 ## Basic Definitions of Network Terms

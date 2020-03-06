@@ -2,6 +2,7 @@
 layout: default
 title: Gephi Versus Palladio
 nav_order: 7
+parent: Outline
 published: true
 ---
 
@@ -22,7 +23,7 @@ published: true
 - A Palladio project begins first with the tabular data you have on your computer. Once you’ve uploaded this data into the Palladio interface, you can then refine it, visualize, and save it back to your computer as a Palladio project.
 
 
-## When Might Gephi be the Right Tool for You? 
+## When Might Gephi be the Right Tool for You?
 
 **Accessibility**
 

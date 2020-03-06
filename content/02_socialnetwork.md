@@ -2,6 +2,7 @@
  layout: default
  title: What is a Social Network
  nav_order: 2
+ parent: Outline
 ---
 
 ## What is a Social Network
