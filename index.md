@@ -4,7 +4,9 @@ title: Introduction
 nav_order: 1
 parent: Outline
 ---
-# Introduction
+# Network Analysis and Visualization using Gephi and Palladio
+
+## Introduction
 
 Social network analysis (SNA) is an approach for modeling, visualizing, and analyzing the interactions between individuals within groups and organizations.
 
@@ -12,7 +14,7 @@ Social network analysis (SNA) is an approach for modeling, visualizing, and anal
 
 Network visualization is the process of visually presenting networks of connected entities as edges(links) and nodes.
 
-## Applications of Network Analysis and visualization
+## Applications of Network Analysis and Visualization
 
 Example projects:
 * **[The Star Wars Social Network](http://evelinag.com/blog/2015/12-15-star-wars-social-network/)** - A look at the whole 6-movie cycle from a quantitative point of view and extract the Star Wars social networks, both within each film and across the whole Star Wars universe
